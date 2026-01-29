@@ -127,6 +127,22 @@
         "input_text_color": ""
       }
     },
+    "scrolling_text_TXQntW": {
+      "type": "scrolling-text",
+      "name": "Scrolling text",
+      "settings": {
+        "full_width": true,
+        "text": "Pratique. Puissant. Performant.",
+        "text_size": "small",
+        "text_style": "fill",
+        "scrolling_mode": "auto",
+        "scrolling_speed": 5,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "text_gradient": ""
+      }
+    },
     "faq": {
       "type": "faq",
       "blocks": {
@@ -183,6 +199,7 @@
   },
   "order": [
     "featured_product_wnxJBC",
+    "scrolling_text_TXQntW",
     "faq"
   ]
 }
