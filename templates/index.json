@@ -338,6 +338,60 @@
         "text_color": ""
       }
     },
+    "rich_text_DawAaP": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_RCk6XY": {
+          "type": "heading",
+          "settings": {
+            "text": "Reprenez le contrôle total de votre quotidien",
+            "heading_tag": "h1",
+            "text_color": "",
+            "gradient": ""
+          }
+        },
+        "richtext_FMDVfF": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p><strong>Le \"LOCK IN SYSTEM\"</strong> n’est pas qu’un simple calendrier, c’est votre centre de commande personnel. Grâce à une interface intuitive et épurée, vous centralisez vos projets, vos tâches et vos habitudes en un seul endroit.</p>"
+          }
+        },
+        "button_hJcGMi": {
+          "type": "button",
+          "settings": {
+            "style": "fill",
+            "size": "base",
+            "text": "Accéder à LOCK IN SYSTEM",
+            "url": "#shopify-section-template--27876916166920__featured_product_wnxJBC",
+            "background": "",
+            "text_color": ""
+          }
+        },
+        "image_rh6W3C": {
+          "type": "image",
+          "settings": {
+            "width_mode": "custom",
+            "max_width": 600,
+            "mobile_max_width": 400
+          }
+        }
+      },
+      "block_order": [
+        "heading_RCk6XY",
+        "richtext_FMDVfF",
+        "button_hJcGMi",
+        "image_rh6W3C"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "scrolling_text_TXQntW": {
       "type": "scrolling-text",
       "name": "Scrolling text",
@@ -384,18 +438,17 @@
         "166442457738b23caf-1",
         "166442457738b23caf-2"
       ],
-      "disabled": true,
       "settings": {
         "full_width": false,
         "subheading": "",
-        "title": "FAQ",
-        "content": "<p>Use this text to share information about your product or shipping policies.</p>",
+        "title": "Questions Fréquentes",
+        "content": "",
         "team_avatar_width": 160,
-        "support_hours": "Our customer support is available Monday to Friday: 8am-8:30pm.",
-        "answer_time": "Average answer time: 24h",
+        "support_hours": "",
+        "answer_time": "",
         "button_text": "",
         "button_url": "",
-        "text_position": "start",
+        "text_position": "center",
         "background": "#ffffff",
         "background_gradient": "",
         "text_color": "",
@@ -414,6 +467,7 @@
     "rich_text_GMCA9Q",
     "testimonials_97ebcC",
     "text_with_icons_VRYL9q",
+    "rich_text_DawAaP",
     "scrolling_text_TXQntW",
     "faq"
   ]
