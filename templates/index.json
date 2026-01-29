@@ -21,7 +21,7 @@
         "title_NV6pHn": {
           "type": "title",
           "settings": {
-            "heading_tag": "h2"
+            "heading_tag": "h1"
           }
         },
         "price_zz7XVP": {
@@ -81,7 +81,7 @@
             "icon": "none",
             "icon_width": 20,
             "title": "Title",
-            "content": "<p>Share some content to your customers about your products.</p>",
+            "content": "<p>✓ Pas d'abonnement<br/>✓ Paiement unique<br/>✓ Accès à vie</p>",
             "page": ""
           }
         },
@@ -91,7 +91,7 @@
             "icon": "none",
             "icon_width": 20,
             "title": "Title",
-            "content": "<p>Share some content to your customers about your products.</p>",
+            "content": "<p>✓ Template(s) envoyé(s) par mail instantanément après la commande</p>",
             "page": ""
           }
         }
