@@ -20,7 +20,7 @@
             "desktop_text_position": "sm:place-self-center sm:text-center",
             "subheading": "",
             "title": "",
-            "heading_tag": "h0",
+            "heading_tag": "h2",
             "button_text": "",
             "button_link": "",
             "text_color": "#ffffff",
@@ -39,7 +39,7 @@
       "name": "Slideshow",
       "settings": {
         "full_width": true,
-        "allow_transparent_header": true,
+        "allow_transparent_header": false,
         "show_initial_transition": false,
         "image_size": "auto",
         "controls_type": "dots",
@@ -48,6 +48,60 @@
         "cycle_speed": 6,
         "background": "#f2f2f2",
         "background_gradient": ""
+      }
+    },
+    "rich_text_hrphcb": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_MW7Gkj": {
+          "type": "heading",
+          "settings": {
+            "text": "Boostez Votre Productivité",
+            "heading_tag": "h2",
+            "text_color": "",
+            "gradient": ""
+          }
+        },
+        "richtext_Nh938U": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Travaillez mieux, plus vite, et atteignez vos objectifs sans complexité.</p>"
+          }
+        },
+        "button_ANJzme": {
+          "type": "button",
+          "settings": {
+            "style": "fill",
+            "size": "base",
+            "text": "Accéder à LOCK IN SYSTEM",
+            "url": "#shopify-section-template--27876916166920__featured_product_wnxJBC",
+            "background": "",
+            "text_color": ""
+          }
+        },
+        "image_PG6wLb": {
+          "type": "image",
+          "settings": {
+            "width_mode": "custom",
+            "max_width": 600,
+            "mobile_max_width": 400
+          }
+        }
+      },
+      "block_order": [
+        "heading_MW7Gkj",
+        "richtext_Nh938U",
+        "button_ANJzme",
+        "image_PG6wLb"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "#fafafa",
+        "background_gradient": "",
+        "text_color": ""
       }
     },
     "featured_product_wnxJBC": {
@@ -463,6 +517,7 @@
   },
   "order": [
     "slideshow_BdYF6j",
+    "rich_text_hrphcb",
     "featured_product_wnxJBC",
     "rich_text_GMCA9Q",
     "testimonials_97ebcC",
