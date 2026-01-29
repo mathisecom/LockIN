@@ -75,7 +75,7 @@
         "liquid_eJ7VFi": {
           "type": "liquid",
           "settings": {
-            "liquid": ""
+            "liquid": "<div class=\"product-info__block-item\" data-block-id=\"liquid_HjcQtb\" data-block-type=\"liquid\"><div class=\"product-info__liquid\">\n              <div class=\"atc-bundle-sor__benefits\">\n        \n          \n        \n          \n        \n          \n        \n          \n            \n              \n              \n                \n                  <div class=\"atc-bundle-sor__benefit\">\n                    <div class=\"atc-bundle-sor__benefit-icon\">\n                      <svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n                        <path d=\"M12 5.33301L7.08361 10.3059C6.8876 10.5042 6.5673 10.5038 6.37172 10.3051L4 7.89578\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\"></path>\n                      </svg>\n                    </div>\n                    <span>Réduit la profondeur des rides</span>\n                  </div>\n                \n              \n                \n                  <div class=\"atc-bundle-sor__benefit\">\n                    <div class=\"atc-bundle-sor__benefit-icon\">\n                      <svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n                        <path d=\"M12 5.33301L7.08361 10.3059C6.8876 10.5042 6.5673 10.5038 6.37172 10.3051L4 7.89578\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\"></path>\n                      </svg>\n                    </div>\n                    <span>Atténue les taches pigmentaires</span>\n                  </div>\n                \n              \n                \n                  <div class=\"atc-bundle-sor__benefit\">\n                    <div class=\"atc-bundle-sor__benefit-icon\">\n                      <svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n                        <path d=\"M12 5.33301L7.08361 10.3059C6.8876 10.5042 6.5673 10.5038 6.37172 10.3051L4 7.89578\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\"></path>\n                      </svg>\n                    </div>\n                    <span>Améliore la fermeté</span>\n                 \n\n                    </div>\n\n\n\n\n\n\n                \n              \n            \n          \n        \n          \n        \n          \n        \n          \n        \n          \n        \n          \n        \n          \n        \n      </div>\n            </div></div>"
           }
         },
         "liquid_LixYYi": {
@@ -164,67 +164,6 @@
         "input_text_color": ""
       }
     },
-    "text_with_icons_VRYL9q": {
-      "type": "text-with-icons",
-      "blocks": {
-        "item_Lytepg": {
-          "type": "item",
-          "settings": {
-            "icon": "picto-coupon",
-            "mobile_icon_width": 24,
-            "icon_width": 32,
-            "icon_background_type": "circle",
-            "icon_background": "",
-            "icon_color": "",
-            "title": "Free shipping",
-            "content": "<p>Free worldwide shipping and returns - customs and duties taxes included</p>"
-          }
-        },
-        "item_833RgF": {
-          "type": "item",
-          "settings": {
-            "icon": "picto-coupon",
-            "mobile_icon_width": 24,
-            "icon_width": 32,
-            "icon_background_type": "circle",
-            "icon_background": "",
-            "icon_color": "",
-            "title": "Customer service",
-            "content": "<p>We are available from monday to friday to answer your questions.</p>"
-          }
-        },
-        "item_3wwkfw": {
-          "type": "item",
-          "settings": {
-            "icon": "picto-coupon",
-            "mobile_icon_width": 24,
-            "icon_width": 32,
-            "icon_background_type": "circle",
-            "icon_background": "",
-            "icon_color": "",
-            "title": "Secure payment",
-            "content": "<p>Your payment information is processed securely.</p>"
-          }
-        }
-      },
-      "block_order": [
-        "item_Lytepg",
-        "item_833RgF",
-        "item_3wwkfw"
-      ],
-      "name": "Text with icons",
-      "settings": {
-        "full_width": true,
-        "stack_on_mobile": false,
-        "title": "",
-        "heading_tag": "h5",
-        "text_alignment": "center",
-        "icon_spacing": "medium",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
     "rich_text_GMCA9Q": {
       "type": "rich-text",
       "blocks": {
@@ -232,7 +171,7 @@
           "type": "heading",
           "settings": {
             "text": "+500 Utilisateurs Satisfaits",
-            "heading_tag": "h3",
+            "heading_tag": "h2",
             "text_color": "",
             "gradient": ""
           }
@@ -335,6 +274,67 @@
         "testimonial_card_text_color": ""
       }
     },
+    "text_with_icons_VRYL9q": {
+      "type": "text-with-icons",
+      "blocks": {
+        "item_Lytepg": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-coupon",
+            "mobile_icon_width": 24,
+            "icon_width": 32,
+            "icon_background_type": "none",
+            "icon_background": "",
+            "icon_color": "",
+            "title": "Désordonné",
+            "content": "<p>Aucun cadre, aucune structure...<br/>Vous avez du mal à vous organiser ?</p>"
+          }
+        },
+        "item_833RgF": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-coupon",
+            "mobile_icon_width": 24,
+            "icon_width": 32,
+            "icon_background_type": "none",
+            "icon_background": "",
+            "icon_color": "",
+            "title": "Débordé",
+            "content": "<p>Deadlines, tâches, notes, listes en tout genre… Vous n'arrivez plus à tout retenir ?</p>"
+          }
+        },
+        "item_3wwkfw": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-coupon",
+            "mobile_icon_width": 24,
+            "icon_width": 32,
+            "icon_background_type": "none",
+            "icon_background": "",
+            "icon_color": "",
+            "title": "Éparpillé",
+            "content": "<p>Posts-it, carnets, applications, logiciels...<br/>Vous auriez besoin de tout regrouper ?</p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_Lytepg",
+        "item_833RgF",
+        "item_3wwkfw"
+      ],
+      "name": "Text with icons",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "title": "Transformez le chaos ...",
+        "heading_tag": "h5",
+        "text_alignment": "center",
+        "icon_spacing": "medium",
+        "background": "#fafafa",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "scrolling_text_TXQntW": {
       "type": "scrolling-text",
       "name": "Scrolling text",
@@ -408,9 +408,9 @@
   "order": [
     "slideshow_BdYF6j",
     "featured_product_wnxJBC",
-    "text_with_icons_VRYL9q",
     "rich_text_GMCA9Q",
     "testimonials_97ebcC",
+    "text_with_icons_VRYL9q",
     "scrolling_text_TXQntW",
     "faq"
   ]
