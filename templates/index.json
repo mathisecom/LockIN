@@ -532,6 +532,41 @@
         "text_gradient": ""
       }
     },
+    "media_with_text_hGFGrA": {
+      "type": "media-with-text",
+      "blocks": {
+        "image_jpGjVe": {
+          "type": "image",
+          "settings": {
+            "media_width": 50,
+            "media_position": "end",
+            "text_position": "place-self-center text-center",
+            "icon": "none",
+            "icon_width": 48,
+            "subheading": "",
+            "title": "Toute votre organisation, au même endroit",
+            "content": "<p>Organisez tout, au même endroit. Plus besoin de jongler entre les différentes applications.</p>",
+            "link_text": "Accéder à LOCK IN SYSTEM",
+            "link_url": "#shopify-section-template--27876916166920__featured_product_wnxJBC",
+            "background": "#ffffff",
+            "background_gradient": "",
+            "text_color": "#000000",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_jpGjVe"
+      ],
+      "name": "Media with text",
+      "settings": {
+        "full_width": true,
+        "alternate_media_position": false,
+        "spacing": "none"
+      }
+    },
     "faq": {
       "type": "faq",
       "blocks": {
@@ -595,6 +630,7 @@
     "text_with_icons_VRYL9q",
     "rich_text_DawAaP",
     "scrolling_text_TXQntW",
+    "media_with_text_hGFGrA",
     "faq"
   ]
 }
