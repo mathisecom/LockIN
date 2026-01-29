@@ -9,6 +9,84 @@
  */
 {
   "sections": {
+    "featured_product_wnxJBC": {
+      "type": "featured-product",
+      "blocks": {
+        "title_NV6pHn": {
+          "type": "title",
+          "settings": {
+            "heading_tag": "h2"
+          }
+        },
+        "price_zz7XVP": {
+          "type": "price",
+          "disabled": true,
+          "settings": {
+            "show_taxes_notice": false
+          }
+        },
+        "liquid_LixYYi": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div class=\"product-info__block-item\" data-block-id=\"liquid_NaW3i\" data-block-type=\"liquid\"><div class=\"product-info__liquid\">\n              <div class=\"usn-mailready\" role=\"status\" aria-label=\"Envoyé par e-mail instantanément\">\n  <span class=\"usn-led\" aria-hidden=\"true\"></span>\n  <span class=\"usn-text\">Envoyé par e-mail instantanément.</span>\n</div>\n\n<style>\n  /* Réglages rapides */\n  .usn-mailready{\n    --led-color: #4ade80;            /* couleur de la diode */\n    --led-glow: rgba(74,222,128,.45); /* lueur autour */\n    --led-size: 10px;                /* taille du point */\n    --led-speed: 2s;               /* vitesse du clignotement */\n    --led-off: .6;                  /* intensité quand éteint (0–1) */\n  }\n\n  .usn-mailready{\n    display:inline-flex;align-items:center;gap:.5rem;\n    font-size:14px;line-height:1.2;font-weight:600;\n  }\n  .usn-led{\n    width:var(--led-size);height:var(--led-size);border-radius:9999px;\n    background:var(--led-color);\n    box-shadow:0 0 6px var(--led-glow), 0 0 14px var(--led-glow);\n    animation:usn-led-blink var(--led-speed) ease-in-out infinite;\n  }\n  @keyframes usn-led-blink{\n    /* OFF (léger) */\n    0%, 25% {\n      opacity: var(--led-off);\n      box-shadow:0 0 1px rgba(0,0,0,.08);\n    }\n    /* ON (plein) */\n    40%, 75% {\n      opacity: 1;\n      box-shadow:0 0 6px var(--led-glow), 0 0 18px var(--led-glow);\n    }\n    /* OFF (léger) */\n    100% {\n      opacity: var(--led-off);\n      box-shadow:0 0 1px rgba(0,0,0,.08);\n    }\n  }\n\n  /* Accessibilité : pas d’animation si l’utilisateur la réduit */\n  @media (prefers-reduced-motion: reduce){\n    .usn-led{ animation:none; opacity:1; }\n  }\n</style>\n            </div></div>"
+          }
+        },
+        "variant_picker_hgLhBR": {
+          "type": "variant_picker",
+          "disabled": true,
+          "settings": {
+            "hide_sold_out_variants": false,
+            "stack_blocks": true,
+            "selector_style": "block",
+            "swatch_selector_style": "swatch",
+            "variant_image_options": "",
+            "size_chart_page": ""
+          }
+        },
+        "quantity_selector_7J7qEr": {
+          "type": "quantity_selector",
+          "disabled": true,
+          "settings": {}
+        },
+        "buy_buttons_YykTJa": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_payment_button": true,
+            "show_gift_card_recipient": true,
+            "atc_button_background": "",
+            "atc_button_text_color": "",
+            "payment_button_background": "",
+            "payment_button_text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "title_NV6pHn",
+        "price_zz7XVP",
+        "liquid_LixYYi",
+        "variant_picker_hgLhBR",
+        "quantity_selector_7J7qEr",
+        "buy_buttons_YykTJa"
+      ],
+      "name": "Featured product",
+      "settings": {
+        "full_width": true,
+        "product": "lock-in-systeme",
+        "desktop_media_width": 55,
+        "desktop_media_layout": "carousel_thumbnails_left",
+        "mobile_media_size": "expanded",
+        "mobile_carousel_control": "dots",
+        "enable_video_autoplay": true,
+        "enable_video_looping": false,
+        "enable_image_zoom": true,
+        "max_image_zoom_level": 3,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "input_background": "rgba(0,0,0,0)",
+        "input_text_color": ""
+      }
+    },
     "faq": {
       "type": "faq",
       "blocks": {
@@ -64,6 +142,7 @@
     }
   },
   "order": [
+    "featured_product_wnxJBC",
     "faq"
   ]
 }
