@@ -267,9 +267,9 @@
             "round_avatar": true,
             "show_rating": true,
             "rating": 4,
-            "author": "John S.",
-            "title": "Testimonial 1",
-            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
+            "author": "Julien – Consultant indépendant",
+            "title": "Incroyablement efficace",
+            "content": "<p>Honnêtement, je ne pensais pas que ça allait autant m’aider. Tout est clair, structuré, et ça m’enlève une énorme charge mentale. J’ai enfin l’impression de savoir où je vais et quoi faire chaque jour.<br/>Je recommande sans hésiter !</p>"
           }
         },
         "testimonial_ennUW4": {
@@ -278,9 +278,9 @@
             "round_avatar": true,
             "show_rating": true,
             "rating": 5,
-            "author": "Mary U.",
-            "title": "Testimonial 2",
-            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
+            "author": "Camille – Entrepreneuse",
+            "title": "Un vrai game changer",
+            "content": "<p>LockIn System m’a permis de remettre de l’ordre dans mon travail et ma vie perso. Objectifs, tâches, habitudes… tout est lié, c’est hyper bien pensé. Franchement, foncez.</p>"
           }
         },
         "testimonial_Ubd6Rh": {
@@ -289,9 +289,9 @@
             "round_avatar": true,
             "show_rating": true,
             "rating": 4,
-            "author": "Joshua A.",
-            "title": "Testimonial 3",
-            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
+            "author": "Alex – Étudiant",
+            "title": "Je procrastine beaucoup moins",
+            "content": "<p>C’est simple : je procrastine beaucoup moins depuis que je l’utilise. Tout est déjà prêt, j’ai juste à suivre le système.<br/>Très bon investissement.</p>"
           }
         },
         "testimonial_YE6daD": {
@@ -300,9 +300,9 @@
             "round_avatar": true,
             "show_rating": true,
             "rating": 4,
-            "author": "",
-            "title": "Testimonial",
-            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
+            "author": "Sofiane – Freelance",
+            "title": "Ultra complet et bien expliqué",
+            "content": "<p>J’avais un peu peur au début avec Notion, mais les vidéos expliquent tout super bien. En quelques heures, j’étais opérationnel. Le système est ultra complet, on sent qu’il a été vraiment réfléchi.</p>"
           }
         },
         "testimonial_NhyCX9": {
@@ -311,9 +311,20 @@
             "round_avatar": true,
             "show_rating": true,
             "rating": 4,
-            "author": "",
-            "title": "Testimonial",
-            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
+            "author": "Marie – Chargée de projet",
+            "title": "Enfin une vraie organisation",
+            "content": "<p>J’ai testé pas mal d’outils avant, mais aucun n’était aussi clair et structuré. Là, j’ai tout au même endroit et je gagne un temps fou. Très satisfait.</p>"
+          }
+        },
+        "testimonial_wB8UmM": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 4,
+            "author": "Antoine – Salarié & side project",
+            "title": "Je ne pourrais plus m’en passer",
+            "content": "<p>Après quelques semaines d’utilisation, je ne pourrais clairement plus revenir en arrière. Ça m’aide à rester discipliné et à avancer chaque jour. Excellent produit.</p>"
           }
         }
       },
@@ -322,7 +333,8 @@
         "testimonial_ennUW4",
         "testimonial_Ubd6Rh",
         "testimonial_YE6daD",
-        "testimonial_NhyCX9"
+        "testimonial_NhyCX9",
+        "testimonial_wB8UmM"
       ],
       "name": "Testimonials",
       "settings": {
