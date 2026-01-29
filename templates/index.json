@@ -310,6 +310,7 @@
         "testimonial_Q6DzDP": {
           "type": "testimonial",
           "settings": {
+            "image": "shopify://shop_images/Copie_de_CREA_1080X1080_1.png",
             "round_avatar": true,
             "show_rating": true,
             "rating": 5,
@@ -321,6 +322,7 @@
         "testimonial_ennUW4": {
           "type": "testimonial",
           "settings": {
+            "image": "shopify://shop_images/Copie_de_CREA_1080X1080_2.png",
             "round_avatar": true,
             "show_rating": true,
             "rating": 5,
@@ -332,6 +334,7 @@
         "testimonial_Ubd6Rh": {
           "type": "testimonial",
           "settings": {
+            "image": "shopify://shop_images/Copie_de_CREA_1080X1080_3.png",
             "round_avatar": true,
             "show_rating": true,
             "rating": 5,
@@ -343,6 +346,7 @@
         "testimonial_YE6daD": {
           "type": "testimonial",
           "settings": {
+            "image": "shopify://shop_images/Copie_de_CREA_1080X1080_4.png",
             "round_avatar": true,
             "show_rating": true,
             "rating": 4,
@@ -354,6 +358,7 @@
         "testimonial_NhyCX9": {
           "type": "testimonial",
           "settings": {
+            "image": "shopify://shop_images/Copie_de_CREA_1080X1080_5.png",
             "round_avatar": true,
             "show_rating": true,
             "rating": 5,
@@ -365,6 +370,7 @@
         "testimonial_wB8UmM": {
           "type": "testimonial",
           "settings": {
+            "image": "shopify://shop_images/Copie_de_CREA_1080X1080_6.png",
             "round_avatar": true,
             "show_rating": true,
             "rating": 4,
