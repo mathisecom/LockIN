@@ -354,6 +354,42 @@
         "testimonial_card_text_color": ""
       }
     },
+    "media_with_text_zrEARF": {
+      "type": "media-with-text",
+      "blocks": {
+        "image_GeRVKr": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Pensees_pour_maximiser_la_productivite_le_focus_et_la_discipline._6.jpg",
+            "media_width": 50,
+            "media_position": "start",
+            "text_position": "place-self-center text-center",
+            "icon": "none",
+            "icon_width": 48,
+            "subheading": "",
+            "title": "Un focus total et une productivité maîtrisée, chaque jour",
+            "content": "<p>Pensées pour maximiser la productivité, le focus et la discipline.</p>",
+            "link_text": "Accéder à LOCK IN SYSTEM",
+            "link_url": "",
+            "background": "#ffffff",
+            "background_gradient": "",
+            "text_color": "#000000",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_GeRVKr"
+      ],
+      "name": "Media with text",
+      "settings": {
+        "full_width": false,
+        "alternate_media_position": false,
+        "spacing": "none"
+      }
+    },
     "slideshow_cz3MNU": {
       "type": "slideshow",
       "blocks": {
@@ -383,6 +419,7 @@
       "block_order": [
         "image_awNcRg"
       ],
+      "disabled": true,
       "name": "Slideshow",
       "settings": {
         "full_width": false,
@@ -568,6 +605,76 @@
         "spacing": "none"
       }
     },
+    "images_with_text_scrolling_wtCjH8": {
+      "type": "images-with-text-scrolling",
+      "blocks": {
+        "item_bmxhGQ": {
+          "type": "item",
+          "settings": {
+            "icon": "none",
+            "icon_width": 48,
+            "title": "Tableau de bord centralisé",
+            "content": "<p>Tous vos projets, tâches, habitudes et objectifs réunis au même endroit.</p>"
+          }
+        },
+        "item_7pQ7Er": {
+          "type": "item",
+          "settings": {
+            "icon": "none",
+            "icon_width": 48,
+            "title": "Gestion intelligente des tâches",
+            "content": "<p>Priorités, échéances et tâches récurrentes pour avancer sans réfléchir.</p>"
+          }
+        },
+        "item_rNhzcX": {
+          "type": "item",
+          "settings": {
+            "icon": "none",
+            "icon_width": 48,
+            "title": "Tracker d’habitudes automatisé",
+            "content": "<p>Suivez vos routines (sport, santé, travail) et restez discipliné sur la durée.</p>"
+          }
+        },
+        "item_qALaDe": {
+          "type": "item",
+          "settings": {
+            "icon": "none",
+            "icon_width": 48,
+            "title": "Suivi de progression en temps réel",
+            "content": "<p>Analyse hebdomadaire et pourcentage de réussite pour visualiser vos progrès.</p>"
+          }
+        },
+        "item_9gCDtt": {
+          "type": "item",
+          "settings": {
+            "icon": "none",
+            "icon_width": 48,
+            "title": "Organisation par domaines de vie",
+            "content": "<p>Travail, business, personnel, études : une vision claire et équilibrée.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_bmxhGQ",
+        "item_7pQ7Er",
+        "item_rNhzcX",
+        "item_qALaDe",
+        "item_9gCDtt"
+      ],
+      "name": "Images and text scrolling",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "show_counter": true,
+        "desktop_image_effect": "reveal",
+        "image_position": "end",
+        "background": "#fafafa",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": ""
+      }
+    },
     "faq": {
       "type": "faq",
       "blocks": {
@@ -627,11 +734,13 @@
     "featured_product_wnxJBC",
     "rich_text_GMCA9Q",
     "testimonials_97ebcC",
+    "media_with_text_zrEARF",
     "slideshow_cz3MNU",
     "text_with_icons_VRYL9q",
     "rich_text_DawAaP",
     "scrolling_text_TXQntW",
     "media_with_text_hGFGrA",
+    "images_with_text_scrolling_wtCjH8",
     "faq"
   ]
 }
