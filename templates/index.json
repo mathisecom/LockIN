@@ -41,7 +41,7 @@
         "full_width": true,
         "allow_transparent_header": false,
         "show_initial_transition": false,
-        "image_size": "auto",
+        "image_size": "md",
         "controls_type": "dots",
         "transition_type": "fade_with_text",
         "autoplay": false,
@@ -450,9 +450,10 @@
         "image_rh6W3C": {
           "type": "image",
           "settings": {
-            "width_mode": "custom",
-            "max_width": 600,
-            "mobile_max_width": 400
+            "image": "shopify://shop_images/CREA_1080X1080_-_2026-01-29T174749.476.jpg",
+            "width_mode": "full_width",
+            "max_width": 1000,
+            "mobile_max_width": 600
           }
         }
       },
