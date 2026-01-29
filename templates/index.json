@@ -494,8 +494,8 @@
         "166442457738b23caf-0": {
           "type": "item",
           "settings": {
-            "title": "Do you ship overseas?",
-            "content": "<p>Yes, we ship all over the world. Shipping costs will apply, and will be added at checkout. We run discounts and promotions all year, so stay tuned for exclusive deals.</p>"
+            "title": "Est-ce que Notion est payant ?",
+            "content": "<p>Notion propose un plan gratuit.<br/><br/>Une fois Notion téléchargé, vous pouvez utiliser notre template, LockInSystem, dessus.</p>"
           }
         },
         "166442457738b23caf-1": {
