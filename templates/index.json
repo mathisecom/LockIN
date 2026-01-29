@@ -110,7 +110,9 @@
         "image_awNcRg": {
           "type": "image",
           "settings": {
-            "content_max_width": 780,
+            "image": "shopify://shop_images/Copie_de_Section_benefice_HR_new_desktop_16.jpg",
+            "mobile_image": "shopify://shop_images/Pensees_pour_maximiser_la_productivite_le_focus_et_la_discipline._1.jpg",
+            "content_max_width": 760,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
             "subheading": "",
