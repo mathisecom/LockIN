@@ -191,6 +191,12 @@
             "content": "<p>✓ Template(s) envoyé(s) par mail instantanément après la commande</p>",
             "page": ""
           }
+        },
+        "text_BayXUT": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Une question ? Consultez <a href=\"#shopify-section-template--27876916166920__faq\" title=\"#shopify-section-template--27876916166920__faq\">notre FAQ.</a></p>"
+          }
         }
       },
       "block_order": [
@@ -204,7 +210,8 @@
         "quantity_selector_7J7qEr",
         "buy_buttons_YykTJa",
         "collapsible_text_JTdATr",
-        "collapsible_text_qynjwF"
+        "collapsible_text_qynjwF",
+        "text_BayXUT"
       ],
       "name": "Featured product",
       "settings": {
