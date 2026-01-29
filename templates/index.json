@@ -62,7 +62,7 @@
         "title_NV6pHn": {
           "type": "title",
           "settings": {
-            "heading_tag": "h1"
+            "heading_tag": "h2"
           }
         },
         "price_zz7XVP": {
@@ -270,7 +270,7 @@
         "text_color": "",
         "heading_color": "",
         "heading_gradient": "",
-        "testimonial_card_background": "",
+        "testimonial_card_background": "#fafafa",
         "testimonial_card_text_color": ""
       }
     },
