@@ -132,6 +132,12 @@
             "liquid": "<div class=\"product-info__block-item\" data-block-id=\"liquid_HjcQtb\" data-block-type=\"liquid\">\n  <div class=\"product-info__liquid\"> \n    <div class=\"atc-bundle-sor__benefits\">\n\n      <div class=\"atc-bundle-sor__benefit\">\n        <div class=\"atc-bundle-sor__benefit-icon\">\n          <svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n            <path d=\"M12 5.33301L7.08361 10.3059C6.8876 10.5042 6.5673 10.5038 6.37172 10.3051L4 7.89578\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\"></path>\n          </svg>\n        </div>\n        <span>Clarté mentale instantanée</span>\n      </div>\n\n      <div class=\"atc-bundle-sor__benefit\">\n        <div class=\"atc-bundle-sor__benefit-icon\">\n          <svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n            <path d=\"M12 5.33301L7.08361 10.3059C6.8876 10.5042 6.5673 10.5038 6.37172 10.3051L4 7.89578\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\"></path>\n          </svg>\n        </div>\n        <span>Discipline automatisée</span>\n      </div>\n\n      <div class=\"atc-bundle-sor__benefit\">\n        <div class=\"atc-bundle-sor__benefit-icon\">\n          <svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n            <path d=\"M12 5.33301L7.08361 10.3059C6.8876 10.5042 6.5673 10.5038 6.37172 10.3051L4 7.89578\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\"></path>\n          </svg>\n        </div>\n        <span>Mesure réelle de votre progression</span>\n      </div>\n\n      <div class=\"atc-bundle-sor__benefit\">\n        <div class=\"atc-bundle-sor__benefit-icon\">\n          <svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n            <path d=\"M12 5.33301L7.08361 10.3059C6.8876 10.5042 6.5673 10.5038 6.37172 10.3051L4 7.89578\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\"></path>\n          </svg>\n        </div>\n        <span>Structure professionnelle clé en main</span>\n      </div>\n\n    </div>\n  </div>\n</div>"
           }
         },
+        "moon_bundles_upsell_free_gifts_app_block_jNb4cN": {
+          "type": "shopify://apps/moon-bundles-upsell-free-gifts/blocks/app-block/aaf4cd95-8b9b-4a14-b929-0f7fc8fced27",
+          "settings": {
+            "moonbundle_selected_product": "lock-in-systeme"
+          }
+        },
         "liquid_LixYYi": {
           "type": "liquid",
           "settings": {
@@ -192,6 +198,7 @@
         "title_NV6pHn",
         "price_zz7XVP",
         "liquid_eJ7VFi",
+        "moon_bundles_upsell_free_gifts_app_block_jNb4cN",
         "liquid_LixYYi",
         "variant_picker_hgLhBR",
         "quantity_selector_7J7qEr",
