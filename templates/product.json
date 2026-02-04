@@ -12,6 +12,12 @@
     "main": {
       "type": "main-product",
       "blocks": {
+        "liquid_3HzgG3": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div class=\"product-info__block-item\" data-block-id=\"liquid_AgUqXc\" data-block-type=\"liquid\"><div class=\"product-info__liquid\">\n              <div class=\"main-product__block main-product__block-custom_liquid\">\n          <div class=\"m-product-text\">\n            <div class=\"main-product__block main-product__block-custom_liquid\">\n          <div class=\"m-product-text\">\n            <div class=\"main-product__block main-product__block-custom_liquid\">\n  <div class=\"m-product-text\">\n    <div class=\"product-info__liquid\">\n      <a class=\"image-size\" style=\"display: flex; align-items: center; gap: 8px;\">\n        <img src=\"https://cdn.shopify.com/s/files/1/0776/3751/7627/files/avis.png?v=1687213619\" alt=\"Étoiles\" width=\"63\" height=\"13\">\n        <span class=\"text-size\">Noté <b>4.8/5</b> +500 avis</span>\n      </a>\n    </div>\n  </div>\n</div>\n          </div>\n        \n</div>\n          </div>\n        \n</div>\n            </div></div>"
+          }
+        },
         "title": {
           "type": "title",
           "settings": {
@@ -22,36 +28,28 @@
           "type": "badges",
           "settings": {}
         },
-        "price": {
-          "type": "price",
-          "settings": {
-            "show_taxes_notice": false
-          }
-        },
         "rating": {
           "type": "rating",
+          "disabled": true,
           "settings": {
             "show_empty": false
           }
         },
-        "payment_terms": {
-          "type": "payment_terms",
-          "settings": {}
-        },
-        "separator": {
-          "type": "separator",
-          "settings": {}
-        },
-        "description": {
-          "type": "description",
+        "moon_bundles_upsell_free_gifts_app_block_inYWBz": {
+          "type": "shopify://apps/moon-bundles-upsell-free-gifts/blocks/app-block/aaf4cd95-8b9b-4a14-b929-0f7fc8fced27",
           "settings": {
-            "icon": "none",
-            "icon_width": 20,
-            "collapse_content": false
+            "moonbundle_selected_product": "{{product}}"
+          }
+        },
+        "liquid_YUgFC6": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div class=\"product-info__block-item\" data-block-id=\"liquid_LixYYi\" data-block-type=\"liquid\"><div class=\"product-info__liquid\">\n              <div class=\"product-info__block-item\" data-block-id=\"liquid_NaW3i\" data-block-type=\"liquid\"><div class=\"product-info__liquid\">\n              <div class=\"usn-mailready\" role=\"status\" aria-label=\"Envoyé par e-mail instantanément\">\n  <span class=\"usn-led\" aria-hidden=\"true\"></span>\n  <span class=\"usn-text\">Envoyé par e-mail instantanément.</span>\n</div>\n\n<style>\n  /* Réglages rapides */\n  .usn-mailready{\n    --led-color: #4ade80;            /* couleur de la diode */\n    --led-glow: rgba(74,222,128,.45); /* lueur autour */\n    --led-size: 10px;                /* taille du point */\n    --led-speed: 2s;               /* vitesse du clignotement */\n    --led-off: .6;                  /* intensité quand éteint (0–1) */\n  }\n\n  .usn-mailready{\n    display:inline-flex;align-items:center;gap:.5rem;\n    font-size:14px;line-height:1.2;font-weight:600;\n  }\n  .usn-led{\n    width:var(--led-size);height:var(--led-size);border-radius:9999px;\n    background:var(--led-color);\n    box-shadow:0 0 6px var(--led-glow), 0 0 14px var(--led-glow);\n    animation:usn-led-blink var(--led-speed) ease-in-out infinite;\n  }\n  @keyframes usn-led-blink{\n    /* OFF (léger) */\n    0%, 25% {\n      opacity: var(--led-off);\n      box-shadow:0 0 1px rgba(0,0,0,.08);\n    }\n    /* ON (plein) */\n    40%, 75% {\n      opacity: 1;\n      box-shadow:0 0 6px var(--led-glow), 0 0 18px var(--led-glow);\n    }\n    /* OFF (léger) */\n    100% {\n      opacity: var(--led-off);\n      box-shadow:0 0 1px rgba(0,0,0,.08);\n    }\n  }\n\n  /* Accessibilité : pas d’animation si l’utilisateur la réduit */\n  @media (prefers-reduced-motion: reduce){\n    .usn-led{ animation:none; opacity:1; }\n  }\n</style>\n            </div></div>\n            </div></div>"
           }
         },
         "variant_picker": {
           "type": "variant_picker",
+          "disabled": true,
           "settings": {
             "hide_sold_out_variants": false,
             "stack_blocks": true,
@@ -63,42 +61,64 @@
         },
         "quantity_selector": {
           "type": "quantity_selector",
+          "disabled": true,
           "settings": {}
         },
         "buy_buttons": {
           "type": "buy_buttons",
           "settings": {
-            "show_payment_button": true,
-            "show_gift_card_recipient": true,
+            "show_payment_button": false,
+            "show_gift_card_recipient": false,
             "atc_button_background": "",
             "atc_button_text_color": "",
             "payment_button_background": "",
             "payment_button_text_color": ""
           }
+        },
+        "collapsible_text_FTV8Qb": {
+          "type": "collapsible_text",
+          "settings": {
+            "icon": "none",
+            "icon_width": 20,
+            "title": "Description",
+            "content": "<p>Share some content to your customers about your products.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_text_LyhPPh": {
+          "type": "collapsible_text",
+          "settings": {
+            "icon": "none",
+            "icon_width": 20,
+            "title": "Envoie Par Mail",
+            "content": "<p>Share some content to your customers about your products.</p>",
+            "page": ""
+          }
         }
       },
       "block_order": [
+        "liquid_3HzgG3",
         "title",
         "badges",
-        "price",
         "rating",
-        "payment_terms",
-        "separator",
-        "description",
+        "moon_bundles_upsell_free_gifts_app_block_inYWBz",
+        "liquid_YUgFC6",
         "variant_picker",
         "quantity_selector",
-        "buy_buttons"
+        "buy_buttons",
+        "collapsible_text_FTV8Qb",
+        "collapsible_text_LyhPPh"
       ],
       "settings": {
         "full_width": true,
         "show_fixed_add_to_cart": true,
         "desktop_media_width": 55,
         "desktop_media_layout": "carousel_thumbnails_left",
-        "mobile_media_size": "expanded",
-        "mobile_carousel_control": "floating_dots",
+        "mobile_media_size": "contained",
+        "mobile_carousel_control": "thumbnails",
         "enable_video_autoplay": false,
         "enable_video_looping": true,
-        "enable_image_zoom": true,
+        "enable_image_zoom": false,
         "max_image_zoom_level": 3,
         "background": "",
         "background_gradient": "",
