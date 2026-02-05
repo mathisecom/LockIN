@@ -361,6 +361,61 @@
         "background_gradient": "",
         "text_color": ""
       }
+    },
+    "rich_text_jBTKBg": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_HGNryV": {
+          "type": "heading",
+          "settings": {
+            "text": "Reprenez le contrôle total de votre quotidien",
+            "heading_tag": "h1",
+            "text_color": "",
+            "gradient": ""
+          }
+        },
+        "richtext_hTp9xK": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p><strong>Le \"LOCK IN SYSTEM\"</strong> n’est pas qu’un simple calendrier, c’est votre centre de commande personnel. Grâce à une interface intuitive et épurée, vous centralisez vos projets, vos tâches et vos habitudes en un seul endroit.</p>"
+          }
+        },
+        "button_L9HHNW": {
+          "type": "button",
+          "settings": {
+            "style": "fill",
+            "size": "base",
+            "text": "Accéder à LOCK IN SYSTEM",
+            "url": "",
+            "background": "",
+            "text_color": ""
+          }
+        },
+        "image_WQbL3h": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/CREA_1080X1080_-_2026-01-29T174749.476.jpg",
+            "width_mode": "custom",
+            "max_width": 1000,
+            "mobile_max_width": 600
+          }
+        }
+      },
+      "block_order": [
+        "heading_HGNryV",
+        "richtext_hTp9xK",
+        "button_L9HHNW",
+        "image_WQbL3h"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
     }
   },
   "order": [
@@ -368,6 +423,7 @@
     "rich_text_WAqkma",
     "testimonials_c8fnh9",
     "media_with_text_GTyymx",
-    "text_with_icons_MGcQd4"
+    "text_with_icons_MGcQd4",
+    "rich_text_jBTKBg"
   ]
 }
