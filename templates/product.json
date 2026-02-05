@@ -127,31 +127,44 @@
         "input_text_color": ""
       }
     },
-    "related-products": {
-      "type": "related-products",
+    "media_with_text_GTyymx": {
+      "type": "media-with-text",
+      "blocks": {
+        "image_DPLQUE": {
+          "type": "image",
+          "settings": {
+            "media_width": 50,
+            "media_position": "start",
+            "text_position": "place-self-center text-center",
+            "icon": "none",
+            "icon_width": 48,
+            "subheading": "",
+            "title": "Un focus total et une productivité maîtrisée, chaque jour",
+            "content": "<p>Pensées pour maximiser la productivité, le focus et la discipline.</p>",
+            "link_text": "Accéder à LOCK IN SYSTEM",
+            "link_url": "",
+            "background": "#ffffff",
+            "background_gradient": "",
+            "text_color": "#1a1a1a",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_DPLQUE"
+      ],
+      "name": "Media with text",
       "settings": {
-        "recommendations_count": 6,
-        "products": [],
-        "full_width": true,
-        "stack_products": true,
-        "show_progress_bar": false,
-        "products_per_row_mobile": "1",
-        "products_per_row_desktop": 3,
-        "subheading": "",
-        "title": "You may also like",
-        "content": "",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": "",
-        "product_card_background": "",
-        "product_card_text_color": ""
+        "full_width": false,
+        "alternate_media_position": false,
+        "spacing": "none"
       }
     }
   },
   "order": [
     "main",
-    "related-products"
+    "media_with_text_GTyymx"
   ]
 }
