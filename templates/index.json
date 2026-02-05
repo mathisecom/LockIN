@@ -698,7 +698,7 @@
         "item_bmxhGQ": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/IATS_HABITUDES_V7_tiny_51777a2e-eaca-4803-8ab9-fd7f4c27fa88.webp",
+            "image": "shopify://shop_images/Design_sans_titre_45.jpg",
             "icon": "none",
             "icon_width": 48,
             "title": "Tableau de bord centralisé",
@@ -708,6 +708,7 @@
         "item_7pQ7Er": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/Design_sans_titre_44.jpg",
             "icon": "none",
             "icon_width": 48,
             "title": "Gestion intelligente des tâches",
@@ -717,6 +718,7 @@
         "item_rNhzcX": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/Design_sans_titre_43.jpg",
             "icon": "none",
             "icon_width": 48,
             "title": "Tracker d’habitudes automatisé",
