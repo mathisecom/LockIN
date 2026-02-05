@@ -728,6 +728,7 @@
         "item_qALaDe": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/Design_sans_titre_46.jpg",
             "icon": "none",
             "icon_width": 48,
             "title": "Suivi de progression en temps réel",
