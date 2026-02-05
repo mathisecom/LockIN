@@ -738,6 +738,7 @@
         "item_9gCDtt": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/Design_sans_titre_48.jpg",
             "icon": "none",
             "icon_width": 48,
             "title": "Organisation par domaines de vie",
