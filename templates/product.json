@@ -78,20 +78,20 @@
         "collapsible_text_FTV8Qb": {
           "type": "collapsible_text",
           "settings": {
-            "icon": "none",
+            "icon": "picto-comment",
             "icon_width": 20,
             "title": "Description",
-            "content": "<p>Share some content to your customers about your products.</p>",
+            "content": "<p>✓ <strong>Template Notion</strong>, duplicable en un clic<br/>✓ <strong>Système complet & tout-en-un</strong> (Projets, Tâches, Habitudes)<br/>✓ <strong>Suivi de progression automatisé</strong> pour mesurer votre réussite<br/>✓ <strong>Interface épurée & intuitive</strong> pour une clarté mentale totale<br/>✓ <strong>Synchronisé sur tous vos appareils</strong> (Apple, Android, Windows)<br/>✓ <strong>Accès à vie</strong> et mises à jour incluses</p>",
             "page": ""
           }
         },
         "collapsible_text_LyhPPh": {
           "type": "collapsible_text",
           "settings": {
-            "icon": "none",
+            "icon": "picto-send",
             "icon_width": 20,
             "title": "Envoie Par Mail",
-            "content": "<p>Share some content to your customers about your products.</p>",
+            "content": "<p>✓ Template(s) envoyé(s) par mail instantanément après la commande</p>",
             "page": ""
           }
         }
