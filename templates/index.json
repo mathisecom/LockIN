@@ -790,12 +790,20 @@
             "title": "Quel est l’intérêt d’utiliser un template ?",
             "content": "<p>Cela permet de démarrer instantanément avec un modèle déjà entièrement paramétré.</p><p><strong>Pas besoin de consacrer du temps à :</strong><br/><strong>1.</strong> apprendre à maîtriser Notion<br/><strong>2.</strong> gérer des bases de données complexes<br/><strong>3.</strong> développer son propre système d’organisation</p><p>Il suffit de cliquer sur le bouton “Dupliquer”.</p>"
           }
+        },
+        "item_rVKbpb": {
+          "type": "item",
+          "settings": {
+            "title": "Est-il adapté aux débutants Notion ?",
+            "content": "<p>Absolument.</p><p>Le LOCK IN a été conçu pour être extrêmement intuitif et simple d’utilisation.</p>"
+          }
         }
       },
       "block_order": [
         "166442457738b23caf-0",
         "166442457738b23caf-1",
-        "166442457738b23caf-2"
+        "166442457738b23caf-2",
+        "item_rVKbpb"
       ],
       "settings": {
         "full_width": false,
