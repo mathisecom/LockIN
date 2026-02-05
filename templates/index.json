@@ -698,6 +698,7 @@
         "item_bmxhGQ": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/IATS_HABITUDES_V7_tiny_51777a2e-eaca-4803-8ab9-fd7f4c27fa88.webp",
             "icon": "none",
             "icon_width": 48,
             "title": "Tableau de bord centralisé",
