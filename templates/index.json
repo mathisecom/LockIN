@@ -15,8 +15,8 @@
         "image_WHE6Xg": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/BANNER_PC.svg",
-            "mobile_image": "shopify://shop_images/BANNER_MOBILE.svg",
+            "image": "shopify://shop_images/BANNER_PC_2.svg",
+            "mobile_image": "shopify://shop_images/BANNER_MOBILE_1.svg",
             "content_max_width": 780,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
