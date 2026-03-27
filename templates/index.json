@@ -155,6 +155,7 @@
       "blocks": {
         "liquid_AgUqXc": {
           "type": "liquid",
+          "disabled": true,
           "settings": {
             "liquid": "<div class=\"main-product__block main-product__block-custom_liquid\">\n          <div class=\"m-product-text\">\n            <div class=\"main-product__block main-product__block-custom_liquid\">\n          <div class=\"m-product-text\">\n            <div class=\"main-product__block main-product__block-custom_liquid\">\n  <div class=\"m-product-text\">\n    <div class=\"product-info__liquid\">\n      <a class=\"image-size\" style=\"display: flex; align-items: center; gap: 8px;\">\n        <img src=\"https://cdn.shopify.com/s/files/1/0776/3751/7627/files/avis.png?v=1687213619\" alt=\"Étoiles\" width=\"63\" height=\"13\">\n        <span class=\"text-size\">Noté <b>4.8/5</b> +500 avis</span>\n      </a>\n    </div>\n  </div>\n</div>\n          </div>\n        \n</div>\n          </div>\n        \n</div>"
           }
@@ -179,7 +180,7 @@
           }
         },
         "moon_bundles_upsell_free_gifts_app_block_jNb4cN": {
-          "type": "shopify://apps/moon-bundles-upsell-free-gifts/blocks/app-block/aaf4cd95-8b9b-4a14-b929-0f7fc8fced27",
+          "type": "shopify://apps/moon-bundles/blocks/app-block/aaf4cd95-8b9b-4a14-b929-0f7fc8fced27",
           "settings": {
             "moonbundle_selected_product": "lock-in-systeme"
           }
@@ -294,6 +295,7 @@
       "block_order": [
         "heading_tLLz7N"
       ],
+      "disabled": true,
       "name": "Rich text",
       "settings": {
         "full_width": true,
@@ -388,6 +390,7 @@
         "testimonial_NhyCX9",
         "testimonial_wB8UmM"
       ],
+      "disabled": true,
       "name": "Testimonials",
       "settings": {
         "full_width": true,
